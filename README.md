@@ -50,7 +50,6 @@ flowchart TD
 ## Results & Limitations
 
 - Pure dead-reckoning drive: there is no live correction against walls, so accuracy depends entirely on correct calibration of `COUNTS_PER_CELL` and `STOP_MARGIN_TURN`, and on consistent power delivery (brownouts were a recurring failure during development — see CHANGELOG).
-- [TODO: add actual competition results/placement if any, or state this hasn't competed yet]
 
 ## What's next
 
