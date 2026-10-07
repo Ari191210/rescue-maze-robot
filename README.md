@@ -1,6 +1,6 @@
 # Rescue Maze Robot
 
-An Arduino Nano-based maze-solving robot built for RoboCup Junior-style Rescue Maze competition, using dual RMCS-2303 Modbus motor drives and encoder-based dead reckoning.
+Arduino Nano, dual RMCS-2303 Modbus drives, encoder dead reckoning. Firmware iterated through ~15 versions, built for RoboCup Junior-style Rescue Maze competition.
 
 ## What it does
 
